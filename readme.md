@@ -6,3 +6,5 @@
 - git es bueno
 
 - segundo commit
+
+- segunda modificacion desde otro ordenador
